@@ -1,0 +1,14 @@
+{
+  "octocat": {
+    "name": "The Octocat",
+    "location": "San Francisco"
+  },
+  "hubot": {
+    "name": "Hubot",
+    "location": "Mountain View"
+  },
+  "defunkt": {
+    "name": "Chris Wanstrath",
+    "location": "California"
+  }
+}
